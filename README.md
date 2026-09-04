@@ -26,6 +26,10 @@ Os requisitos servirão como base para as próximas etapas de análise, prototip
 **Profissão:** Estudante universitário  
 **Perfil:** Jovem que costuma pedir comida pelo celular e valoriza rapidez, praticidade e facilidade de uso.
 
+**Mini resumo:** Lucas representa o cliente que prioriza agilidade e praticidade ao realizar um pedido.  
+Ele costuma utilizar o celular e espera encontrar as informações rapidamente, sem etapas desnecessárias.  
+Para ele, acompanhar o pedido e saber uma estimativa de entrega são fatores importantes para uma boa experiência.
+
 **Objetivos:** Fazer pedidos rapidamente, visualizar o cardápio e acompanhar a entrega.  
 **Dores:** Processos demorados, excesso de etapas, informações incompletas e falta de previsão do pedido.
 
@@ -52,6 +56,10 @@ Os requisitos servirão como base para as próximas etapas de análise, prototip
 **Idade:** 34 anos  
 **Profissão:** Gerente de projetos  
 **Perfil:** Profissional com pouco tempo disponível que costuma pedir almoço durante o expediente.
+
+**Mini resumo:** Mariana representa o cliente que precisa resolver o pedido de forma rápida durante uma rotina de trabalho corrida.  
+Ela valoriza um checkout simples, facilidade para repetir pedidos e praticidade para usar seus endereços já cadastrados.  
+Segurança no pagamento e confiabilidade das informações são essenciais para que ela confie no sistema.
 
 **Objetivos:** Pedir sem perder tempo, repetir pedidos, pagar com segurança e acompanhar o pedido durante o trabalho.  
 **Dores:** Fluxos longos, repetição de informações, demora no checkout e insegurança no pagamento online.
@@ -80,6 +88,10 @@ Os requisitos servirão como base para as próximas etapas de análise, prototip
 **Profissão:** Empresário  
 **Perfil:** Cliente que costuma realizar pedidos grandes para a família, principalmente aos finais de semana.
 
+**Mini resumo:** A Família Oliveira representa usuários que costumam fazer pedidos maiores e com diferentes combinações de pratos.  
+Eles precisam de controles claros para quantidades, adicionais, observações e conferência do valor final.  
+Uma interface organizada ajuda a reduzir erros e torna a montagem do pedido mais tranquila.
+
 **Objetivos:** Montar pedidos variados, personalizar pratos e visualizar o valor total antes da confirmação.  
 **Dores:** Dificuldade com pedidos grandes, erros de quantidade, pouca personalização e confusão no valor final.
 
@@ -106,6 +118,10 @@ Os requisitos servirão como base para as próximas etapas de análise, prototip
 **Idade:** 29 anos  
 **Profissão:** Designer freelancer / Turista  
 **Perfil:** Visitante que procura uma experiência gastronômica italiana e precisa de informações claras antes de escolher o restaurante e os pratos.
+
+**Mini resumo:** Gabriel representa um cliente que pode conhecer o restaurante pela primeira vez e precisa de informações confiáveis antes de decidir.  
+Ele pesquisa pratos, ingredientes, localização, horários e opções de reserva para organizar sua visita.  
+A clareza das informações e a facilidade de acesso pelo celular influenciam diretamente sua decisão.
 
 **Objetivos:** Conhecer os pratos, ingredientes, localização, horários e possibilidades de reserva.  
 **Dores:** Informações incompletas, dificuldade para encontrar o restaurante e falta de dados sobre restrições alimentares.
@@ -134,6 +150,10 @@ Os requisitos servirão como base para as próximas etapas de análise, prototip
 **Profissão:** Médica  
 **Perfil:** Cliente recorrente que valoriza qualidade, personalização, praticidade e benefícios para clientes frequentes.
 
+**Mini resumo:** Camila representa uma cliente frequente que já conhece o restaurante e espera uma experiência personalizada.  
+Ela valoriza recursos que facilitem novos pedidos, como favoritos, histórico e benefícios de fidelidade.  
+Além de consumir, ela também gosta de registrar sua opinião sobre a qualidade do atendimento e dos pratos.
+
 **Objetivos:** Receber um atendimento personalizado, encontrar seus pratos preferidos, aproveitar benefícios e avaliar a experiência.  
 **Dores:** Dificuldade para repetir pedidos, falta de benefícios de fidelidade e ausência de um canal simples para feedback.
 
@@ -160,6 +180,10 @@ Os requisitos servirão como base para as próximas etapas de análise, prototip
 **Idade:** 46 anos  
 **Profissão:** Proprietário do restaurante  
 **Perfil:** Responsável pela operação, gerenciamento do cardápio, acompanhamento dos pedidos e visão geral do negócio.
+
+**Mini resumo:** Roberto representa o usuário administrativo, responsável por acompanhar a operação e tomar decisões sobre o restaurante.  
+Ele precisa de uma visão centralizada dos pedidos, do cardápio, da disponibilidade dos pratos e dos resultados de vendas.  
+Segurança, controle de acesso e integridade das informações são fundamentais para evitar problemas na operação.
 
 **Objetivos:** Controlar pedidos, atualizar o cardápio, acompanhar vendas e ter uma visão centralizada da operação.  
 **Dores:** Informações descentralizadas, dificuldade para atualizar pratos, atraso na atualização dos pedidos e pouca visão do desempenho.
@@ -258,9 +282,7 @@ Restaurante Italiano
 - [ ] Criar protótipos das telas.
 - [ ] Implementar API e regras de negócio.
 - [ ] Implementar interface do cliente e área administrativa.
-- [ ] Integrar pagamentos.
-- [ ] Criar testes funcionais e não funcionais.
-- [ ] Realizar validação dos requisitos com os usuários.
+- [ ] Criar testes.
 
 ## 📚 Tecnologias previstas
 
@@ -271,13 +293,12 @@ Restaurante Italiano
 - **API:** REST
 - **Banco de dados:** PostgreSQL ou MySQL
 - **Versionamento:** Git + GitHub
-- **Pagamentos:** integração com gateway de pagamento
 
 ## 👨‍💻 Projeto
 
 **Nome:** Restaurante Italiano  
 **Tipo:** Projeto acadêmico  
-**Status:** Em desenvolvimento — levantamento e especificação de requisitos
+**Status:** Em desenvolvimento — levantamento de requisitos
 
 ## 📄 Licença
 
