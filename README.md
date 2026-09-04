@@ -284,16 +284,6 @@ Restaurante Italiano
 - [ ] Implementar interface do cliente e área administrativa.
 - [ ] Criar testes.
 
-## 📚 Tecnologias previstas
-
-> As tecnologias podem ser ajustadas durante a implementação.
-
-- **Frontend:** React Native / React
-- **Backend:** Node.js / Java / Kotlin
-- **API:** REST
-- **Banco de dados:** PostgreSQL ou MySQL
-- **Versionamento:** Git + GitHub
-
 ## 👨‍💻 Projeto
 
 **Nome:** Restaurante Italiano  
